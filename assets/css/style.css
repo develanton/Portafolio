@@ -12,14 +12,14 @@ a:hover{
     color:white;
 }
 #about-me{
-    height: 400px;
-    width: 720px;
+    height: 375px;
+    width: 600px;
     font-size: 20px;
     font-weight: 300;
         
 }
 #my-pic{
-    width: 330px; height:320px;
+    width: 300px; height:320px;
     
    
 }
@@ -29,13 +29,39 @@ footer{
 
 @media(max-width: 640px) {
     #about-me{
-        height: 300px;
-        width: 400px;
+        height: 375px;
+        width: 200px;
         font-size: 20px;
         font-weight: 300;
     }     
         #my-pic{
-            width: 350px; 
+            width: 320px;   
+        }
+}
+@media(max-width: 1050px) {
+    #about-me{
+        height: 375px;
+        width: 200px;
+        font-size: 20px;
+        font-weight: 300;
+    }     
+        #my-pic{
+            width: 320px; 
+
+            
+           
+        }
+}
+
+@media(max-width: 1300px) {
+    #about-me{
+        height: 375px;
+        width: 600px;
+        font-size: 20px;
+        font-weight: 300;
+    }     
+        #my-pic{
+            width: 320px; 
             
            
         }
