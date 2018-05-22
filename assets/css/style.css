@@ -27,4 +27,35 @@ a:hover{
 footer{
     margin-top:10px;
 }
+html{
+    background-color: black;
+}
+body{
+    background-color: black;
+}
+
+#reference{
+    margin-top: 10%;
+}
+#no-border{
+    border-color:white; 
+}
+#top-sec{
+    padding-bottom: 0px; 
+}
+
+#trivia{
+    margin-top: 0%;
+}
+#referenceb{
+   margin: 0px;
+ 
+}
+
+a{
+    color: grey
+}
+a:hover{
+    color:white;
+}
 
