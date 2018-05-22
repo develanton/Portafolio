@@ -13,16 +13,30 @@ a:hover{
 }
 #about-me{
     height: 400px;
-    width: 600px;
+    width: 720px;
     font-size: 20px;
     font-weight: 300;
         
 }
 #my-pic{
-    width:320px; height:320px;
+    width: 330px; height:320px;
     
    
 }
 footer{
     margin-top:10px;
+}
+
+@media(max-width: 640px) {
+    #about-me{
+        height: 300px;
+        width: 400px;
+        font-size: 20px;
+        font-weight: 300;
+    }     
+        #my-pic{
+            width: 350px; 
+            
+           
+        }
 }
