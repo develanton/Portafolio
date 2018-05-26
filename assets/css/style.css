@@ -58,4 +58,13 @@ a{
 a:hover{
     color:white;
 }
-
+#contact-sec{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10%;
+    margin-right: 10%;   
+}
+#menu-sec{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
